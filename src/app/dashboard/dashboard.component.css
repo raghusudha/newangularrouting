@@ -1,0 +1,16 @@
+h1{
+    text-align: center;
+    color: blue;
+    margin-top: 200px;
+}
+.logout
+{
+    padding: 10px;
+  margin-left: 650px;
+  margin-top: 20px;
+  cursor: pointer;
+  background-color: violet;
+  border: none;
+  box-sizing: border-box;
+ 
+}
